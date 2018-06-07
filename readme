@@ -1,0 +1,6 @@
+rosrun cv_camera cv_camera_node
+
+to run camera (will not work on virtual machine)
+
+
+rosrun beginner_tutorials image_converter
